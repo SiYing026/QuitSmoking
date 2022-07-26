@@ -3,22 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/siyin/AndroidStudioProjects/QuitSmokingApp/app/src/main/res/drawable/custom_btn.xml" value="0.22" />
-        <entry key="..\:/Users/siyin/AndroidStudioProjects/QuitSmokingApp/app/src/main/res/layout/activity_introductory.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/siyin/AndroidStudioProjects/QuitSmokingApp/app/src/main/res/layout/activity_login.xml" value="0.264" />
-        <entry key="..\:/Users/siyin/AndroidStudioProjects/QuitSmokingApp/app/src/main/res/layout/activity_register.xml" value="0.19427083333333334" />
-        <entry key="..\:/Users/siyin/AndroidStudioProjects/QuitSmokingApp/app/src/main/res/layout/activity_testing.xml" value="0.161231884057971" />
-        <entry key="..\:/Users/siyin/AndroidStudioProjects/QuitSmokingApp/app/src/main/res/layout/fragment_achievement.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/siyin/AndroidStudioProjects/QuitSmokingApp/app/src/main/res/layout/fragment_community.xml" value="0.1453804347826087" />
-        <entry key="..\:/Users/siyin/AndroidStudioProjects/QuitSmokingApp/app/src/main/res/layout/fragment_get_help.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/siyin/AndroidStudioProjects/QuitSmokingApp/app/src/main/res/layout/fragment_home.xml" value="0.1" />
-        <entry key="..\:/Users/siyin/AndroidStudioProjects/QuitSmokingApp/app/src/main/res/layout/fragment_profile.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/siyin/AndroidStudioProjects/QuitSmokingApp/app/src/main/res/layout/fragment_setting.xml" value="0.12360688956433637" />
-        <entry key="..\:/Users/siyin/AndroidStudioProjects/QuitSmokingApp/app/src/main/res/layout/gethelp_row.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/siyin/AndroidStudioProjects/QuitSmokingApp/app/src/main/res/layout/layout_navigation_header.xml" value="0.2" />
-        <entry key="..\:/Users/siyin/AndroidStudioProjects/QuitSmokingApp/app/src/main/res/layout/main_activity.xml" value="0.2427536231884058" />
-        <entry key="..\:/Users/siyin/AndroidStudioProjects/QuitSmokingApp/app/src/main/res/layout/user_list.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/siyin/AndroidStudioProjects/QuitSmokingApp/app/src/main/res/menu/navigation_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmokingAppDraft/app/src/main/res/drawable/button.xml" value="0.2695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmokingAppDraft/app/src/main/res/layout/activity_admin_community_settings.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmokingAppDraft/app/src/main/res/layout/activity_admin_notification_settings.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmokingAppDraft/app/src/main/res/layout/activity_community_forum.xml" value="0.2879999900124293" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmokingAppDraft/app/src/main/res/layout/activity_main.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmokingAppDraft/app/src/main/res/layout/activity_payment.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmokingAppDraft/app/src/main/res/layout/banner_setting.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmokingAppDraft/app/src/main/res/layout/banner_setting_layout.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmokingAppDraft/app/src/main/res/layout/create_own_goal.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmokingAppDraft/app/src/main/res/layout/forum_list_item.xml" value="0.29010416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmokingAppDraft/app/src/main/res/layout/notification_alert.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmokingAppDraft/app/src/main/res/layout/subscription.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmokingAppDraft/app/src/main/res/layout/subscription_layout.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/User/Downloads/SmokingAppDraft/app/src/main/res/layout/activity_main.xml" value="0.2879999900124293" />
+        <entry key="..\:/Users/User/Downloads/SmokingAppDraft/app/src/main/res/layout/notification_alert.xml" value="0.4363636212309535" />
+        <entry key="..\:/Users/User/Downloads/SmokingAppDraft/app/src/main/res/layout/subscription.xml" value="0.2879999900124293" />
       </map>
     </option>
   </component>
